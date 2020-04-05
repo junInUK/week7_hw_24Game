@@ -1,0 +1,2 @@
+# week7_hw_24Game
+The 24 Game is an arithmetical card game in which the objective is to find a way to manipulate four integers so that the end result is 24. For example, for the card with the numbers 4, 7, 8, 8, a possible solution is (7 - (8 ÷ 8)) x 4 = 24. The game has been played in Shanghai since the 1960s, using playing cards. It has been known by other names, including Maths24, but these products are not associated with the copyrighted versions of the 24® Game.
